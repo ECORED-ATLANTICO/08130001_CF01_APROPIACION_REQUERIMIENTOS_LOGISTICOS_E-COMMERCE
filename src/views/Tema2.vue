@@ -12,9 +12,9 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/1.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        p La logística de distribución y almacenamiento comprende las actividades relacionadas con movilización, organización y entrega de productos dentro de operaciones de e-commerce. Estos procesos permiten garantizar disponibilidad de mercancías, cumplimiento en tiempos de entrega y continuidad en la cadena de suministro.
+        p La logística de distribución y almacenamiento comprende las actividades relacionadas con movilización, organización y entrega de productos dentro de operaciones de <em>e-commerce</em>. Estos procesos permiten garantizar disponibilidad de mercancías, cumplimiento en tiempos de entrega y continuidad en la cadena de suministro.
         .bg-terciario-t5.p-4.py-3.rounded-4
-          p.mb-0 Por lo anterior, el presente componente formativo desarrolla fundamentos técnicos y aplicados para la planeación logística en entornos de #[em e-commerce], permitiendo al aprendiz analizar, estructurar y evaluar operaciones logísticas alineadas con requerimientos empresariales y condiciones reales del mercado.
+          p.mb-0 En el comercio electrónico, la distribución logística representa uno de los principales factores de competitividad. Los consumidores digitales exigen rapidez, trazabilidad y flexibilidad en las entregas, obligando a las empresas a fortalecer sus capacidades operativas y tecnológicas.
 
     .row.justify-content-center
       .col-lg-10.col-xl-8
@@ -52,22 +52,24 @@
             td #[strong Logística nacional]
             td(colspan="2") Gestiona el abastecimiento, almacenamiento, transporte y distribución de mercancías dentro del territorio de un mismo país, garantizando el cumplimiento de la normativa nacional y la eficiencia de las operaciones.
             td(colspan="2") 
-              p.mb-0 Cobertura geográfica nacional
-              p.mb-0 Infraestructura vial y centros logísticos
-              p.mb-0 Costos de transporte y distribución
-              p.mb-0 Cumplimiento de la normativa nacional
-              p.mb-0 Tiempos de entrega
-              p.mb-0 Coordinación entre proveedores, operadores y clientes
+              ul.mb-0.ps-4(style="list-style-type: disc;")
+                li.mb-2 Cobertura geográfica nacional
+                li.mb-2 Infraestructura vial y centros logísticos
+                li.mb-2 Costos de transporte y distribución
+                li.mb-2 Cumplimiento de la normativa nacional
+                li.mb-2 Tiempos de entrega
+                li Coordinación entre proveedores, operadores y clientes
           tr(style="background-color: #F6F6F6")
             td #[strong Logística internacional]
             td(colspan="2") Administra el flujo de mercancías entre dos o más países mediante procesos de comercio exterior, transporte internacional y coordinación logística, asegurando el cumplimiento de los requisitos legales y comerciales establecidos.
             td(colspan="2")
-              p.mb-0 Trámites aduaneros
-              p.mb-0 Documentación para importación y exportación
-              p.mb-0 Selección del modo de transporte internacional
-              p.mb-0 Acuerdos comerciales e Incoterms.
-              p.mb-0 Regulaciones del país de origen y destino
-              p.mb-0 Gestión de riesgos y seguros de la carga
+              ul.mb-0.ps-4(style="list-style-type: disc;")
+                li.mb-2 Trámites aduaneros
+                li.mb-2 Documentación para importación y exportación
+                li.mb-2 Selección del modo de transporte internacional
+                li.mb-2 Acuerdos comerciales e Incoterms
+                li.mb-2 Regulaciones del país de origen y destino
+                li Gestión de riesgos y seguros de la carga
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -265,7 +267,7 @@
           p.mb-0 El almacenamiento comprende el conjunto de actividades destinadas a recibir, ubicar, conservar, controlar y administrar las mercancías dentro de un centro logístico o bodega, garantizando su disponibilidad, integridad y rápida localización para atender oportunamente los procesos de alistamiento, despacho y distribución en la cadena de suministro.
 
     .bg-primario-p10.p-4.py-3.rounded-4.mb-5
-      p.mb-0.text-center Entre los aspectos más importantes a considerar, se encuentran:
+      p.mb-0.text-center Entre los aspectos más importantes a considerar se encuentran:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-sm-8.col-lg-5
@@ -304,7 +306,7 @@
       .col-lg-8
         p Lo tiempos de entrega corresponden al período comprendido entre la confirmación de un pedido y su recepción por parte del cliente. Su cumplimiento depende de la adecuada coordinación entre el almacenamiento, la disponibilidad de inventario, el alistamiento, el transporte, la distribución, el seguimiento del envío y la gestión oportuna de las novedades que puedan presentarse durante la operación logística.
         .bg-terciario-t5.p-4.py-3.rounded-4
-          p.mb-0 los principales aspectos que influyen en su cumplimiento dentro de las operaciones logísticas y el #[em e-commerce], son los siguientes:
+          p.mb-0 Los principales aspectos que influyen en su cumplimiento dentro de las operaciones logísticas y el #[em e-commerce], son los siguientes:
 
     .row.justify-content-center.align-items-stretch.mb-5
       .col-lg-4.col-xl-3.mb-3
@@ -373,7 +375,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white ¿Cómo Funciona una Tienda Online?
+                  h4.text-white ¿Cómo funciona una tienda <em>online</em>?
                   p.mb-0.text-white A continuación, consulte el siguiente video para fortalecer los conocimientos relacionados con logística de distribución y almacenamiento: 
 
                 .col-sm-auto.d-flex.gap-2.flex-column
@@ -387,8 +389,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white Logística de distribución y almacenamiento.
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en lo relacionado a logística de distribución y almacenamiento, a través del siguiente libro (página 155-162). 
+                  h4.text-white Logística de distribución y almacenamiento
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en lo relacionado a logística de distribución y almacenamiento, a través del siguiente libro (páginas 155 - 162). 
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.fesc.edu.co/portal/archivos/e_libros/logistica/gestion_logistica.pdf" type="application/pdf" target="_blank" no-referrer)

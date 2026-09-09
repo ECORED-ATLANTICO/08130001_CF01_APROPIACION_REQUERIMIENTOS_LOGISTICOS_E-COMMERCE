@@ -42,7 +42,7 @@
           div(numero="2" titulo="Sistema de gestión de transporte (TMS)")
             p.mb-0 Planifica rutas, controla vehículos, monitorea entregas y optimiza los costos asociados al transporte de mercancías.
           div(numero="3" titulo="Sistema de planificación de recursos empresariales (ERP)")
-            p.mb-0 Integra información de producción, inventario, compras y ventas, optimizando la gestión de recursos humanos, financieros y materiales.
+            p.mb-0 Integra la información de compras, inventarios, ventas, finanzas y logística en una única plataforma para facilitar la gestión organizacional.
           div(numero="4" titulo="Tecnologías de identificación (Código de barras y QR)")
             p.mb-0 Facilitan la identificación, captura y consulta rápida de información sobre productos durante las operaciones logísticas. 
           div(numero="5" titulo="GPS y sistemas de rastreo")
@@ -121,7 +121,7 @@
     separador 
 
     #t_6_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 6.4 Cumplimiento normativo en el <em>e-commerce</em>
+      h2 6.4 Cumplimiento normativo en operaciones logísticas
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-2.col-lg-1.d-none.d-lg-block
@@ -195,7 +195,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Gerencia de la cadena de abastecimientos
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en soporte tecnológico y cumplimiento normativo, a través del siguiente libro (página 497 – 525):
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en soporte tecnológico y cumplimiento normativo, a través del siguiente libro (páginas 497 - 525):
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.fesc.edu.co/portal/archivos/e_libros/logistica/gestion_logistica.pdf" type="application/pdf" target="_blank" no-referrer)

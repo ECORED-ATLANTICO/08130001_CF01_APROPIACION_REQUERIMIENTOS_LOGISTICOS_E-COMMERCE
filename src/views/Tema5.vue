@@ -20,7 +20,7 @@
       .col-lg-8
         .bg-primario-p5.p-4.py-3.rounded-4.mb-3
           p.mb-0 En el comercio electrónico, las devoluciones de productos representan uno de los principales desafíos logísticos debido a costos de transporte, reprocesos y afectaciones en inventarios. Además, las organizaciones deben implementar protocolos de bioseguridad para proteger trabajadores, mercancías y consumidores.
-        p.mb-0 Empresas como UPS y Amazon han desarrollado políticas de devolución y control sanitario que fortalecen la experiencia del cliente y mejoran la eficiencia operativa
+        p.mb-0 Empresas como UPS y Amazon han desarrollado políticas de devolución y control sanitario que fortalecen la experiencia del cliente y mejoran la eficiencia operativa.
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -82,7 +82,7 @@
         figcaption Nota. SENA, (2026).
 
     .bg-terciario-t5.p-4.py-3.rounded-4.mb-4.mb-lg-5
-      p.mb-0.text-center Los procedimientos representan la secuencia de actividades necesarias para ejecutar ese proceso de forma organizada. Por otro lado, deben definir tiempos de respuesta, responsables, registros y mecanismos de seguimiento para garantizar eficiencia en el proceso. El procedimiento de atención de una devolución es el siguiente
+      p.mb-0.text-center Los procedimientos representan la secuencia de actividades necesarias para ejecutar ese proceso de forma organizada. Por otro lado, deben definir tiempos de respuesta, responsables, registros y mecanismos de seguimiento para garantizar eficiencia en el proceso. El procedimiento de atención de una devolución es el siguiente:
 
     .row.justify-content-center.align-items-center
       .col-sm-8.col-lg-4.d-none.d-xl-block
@@ -248,7 +248,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Libro blanco de logística para comercio electrónico
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en logística inversa y bioseguridad, a través del siguiente libro (página 98-109):
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en logística inversa y bioseguridad, a través del siguiente libro (páginas 98 - 109):
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://ecommerce.institute/wp-content/uploads/lb-logistica-2016.pdf" type="application/pdf" target="_blank" no-referrer)

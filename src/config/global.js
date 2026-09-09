@@ -42,7 +42,7 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Concepto',
+            titulo: 'Concepto logístico del <em>e-commerce</em>',
             hash: 't_1_1',
           },
           {
@@ -127,7 +127,7 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Instrumento de diagnóstico',
+            titulo: 'Instrumentos de diagnóstico',
             hash: 't_4_1',
           },
           {
@@ -230,7 +230,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/8130001_CF01_DU.pdf',
+        download: 'downloads/8130001_CF01_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -366,7 +366,7 @@ export default {
   referencias: [
     {
       referencia:
-        'hopra, S., & Meindl, P. (2008). Administración de la cadena de suministro: estrategia, planeación y operación (3.ª ed.). Pearson Educación.',
+        'Chopra, S., & Meindl, P. (2008). Administración de la cadena de suministro: estrategia, planeación y operación (3.ª ed.). Pearson Educación.',
       link: '',
     },
     {

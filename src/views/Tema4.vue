@@ -22,7 +22,7 @@
 
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.1 Instrumentos de diagnóstico
+      h2 4.1. Instrumentos de diagnóstico
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -323,8 +323,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white Libro blanco de logística para comercio electrónico
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en planeación y control logístico, tal como se muestra en el siguiente libro (página 25-79).
+                  h4.text-white Indicadores de la gestión logística
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en planeación y control logístico, tal como se muestra en el siguiente libro (páginas 25 - 79).
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.fesc.edu.co/portal/archivos/e_libros/logistica/ind_logistica.pdf" type="application/pdf" target="_blank" no-referrer)

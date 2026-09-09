@@ -57,7 +57,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La logística en e-commerce permite gestionar almacenamiento, distribución y entrega de productos para satisfacer al cliente.',
+            '¡Correcto! La logística en <em>e-commerce</em> permite gestionar almacenamiento, distribución y entrega de productos para satisfacer al cliente.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -141,7 +141,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Cross docking.',
+              texto: '<em>Cross docking</em>.',
               esCorrecta: false,
             },
             {

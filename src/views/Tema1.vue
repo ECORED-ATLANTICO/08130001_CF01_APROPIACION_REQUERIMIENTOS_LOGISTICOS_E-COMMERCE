@@ -17,7 +17,7 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1 Concepto
+      h2 1.1. Concepto logístico del e-commerce
 
     .bloque-texto-g.bloque-texto-g--inverso.color-terciario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -32,7 +32,8 @@
         .p-4.py-sm-4.rounded-4.bg-azul
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p.mb-4.mb-lg-0 #[strong Ejemplo]: empresas como Mercado Libre, Amazon, Falabella, Éxito, entre otras, utilizan sistemas logísticos automatizados para optimizar la preparación de pedidos y reducir tiempos de distribución. Estas estrategias fortalecen la experiencia del consumidor y mejoran la competitividad empresarial.
+              p.mb-4.mb-lg-0 #[strong Ejemplo]: empresas como Mercado Libre y Amazon utilizan sistemas logísticos automatizados para optimizar la preparación de pedidos y reducir tiempos de distribución. Estas estrategias fortalecen la experiencia del consumidor y mejoran la competitividad empresarial.
+
             .col-lg-4
               img.imgw-100(src="@/assets/curso/tema1/3.png", alt="")
 
@@ -88,7 +89,7 @@
         .p-4.py-sm-2.rounded-4.bg-terciario-t5
           .row.justify-content-center.align-items-center
             .col-sm-9
-              p.mb-4.mb-sm-0 #[strong Ejemplo]: empresas como Falabella, Éxito, entre otras, integran centros de distribución, operadores logísticos y plataformas tecnológicas para controlar inventarios y monitorear entregas en tiempo real.
+              p.mb-4.mb-sm-0 #[strong Ejemplo]: empresas como Falabella integran centros de distribución, operadores logísticos y plataformas tecnológicas para controlar inventarios y monitorear entregas en tiempo real.
             .col-6.col-sm-3
               img.imgw-115(src="@/assets/curso/tema1/10.png", alt="")
 
@@ -147,7 +148,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-3.p-lg-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 El desarrollo del comercio electrónico requiere el cumplimiento de disposiciones legales que regulan las transacciones digitales, protegen los derechos de las partes involucradas y brindan seguridad a las operaciones comerciales. Conocer este marco normativo facilita la implementación de procesos logísticos confiables, fortalece la relación con clientes y proveedores, y favorece el desarrollo de actividades alineadas con la legislación vigente en los ámbitos nacional e internacional
+          p.mb-0 El desarrollo del comercio electrónico requiere el cumplimiento de disposiciones legales que regulan las transacciones digitales, protegen los derechos de las partes involucradas y brindan seguridad a las operaciones comerciales. Conocer este marco normativo facilita la implementación de procesos logísticos confiables, fortalece la relación con clientes y proveedores, y favorece el desarrollo de actividades alineadas con la legislación vigente en los ámbitos nacional e internacional.
 
     p En Colombia, entidades como la Superintendencia de Industria y Comercio y el Ministerio TIC establecen disposiciones sobre manejo de datos, comercio electrónico y servicios digitales.   El incumplimiento normativo puede generar sanciones económicas, pérdida de confianza y afectaciones operativas para las organizaciones. 
     p.mb-4 Entre la normatividad que rige en Colombia tenemos:
@@ -184,7 +185,7 @@
       .py-4.py-md-5(titulo="Normativa de seguridad informática ISO 27000" :icono="require_src('@/assets/curso/tema1/20.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-7.col-xl-6
-            p.mb-4.mb-lg-0 Contempla medidas para protección de información, prevención de fraudes electrónicos y seguridad en transacciones digitales
+            p.mb-4.mb-lg-0 Contempla medidas para protección de información, prevención de fraudes electrónicos y seguridad en transacciones digitales.
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema1/26.png', alt='')
@@ -196,7 +197,7 @@
             figure
               img(src='@/assets/curso/tema1/27.png', alt='')
 
-    p.mb-4 El e‑commerce es la compra y venta de productos o servicios a través de medios digitales, con antecedentes en la evolución de internet y modelos de negocio como B2B, B2C y C2C. Sus características principales son la accesibilidad global, la rapidez en las transacciones y la personalización de la experiencia del cliente. Para fortalecer estos conocimientos, se invita al aprendiz a dar clic en el video sobre fundamentos y modelos de negociación, consultar el anexo en PDF y a escuchar el pódcast sobre la logística detrás del pedido.
+    p.mb-4 El <em>e‑commerce</em> es la compra y venta de productos o servicios a través de medios digitales, con antecedentes en la evolución de internet y modelos de negocio como B2B, B2C y C2C. Sus características principales son la accesibilidad global, la rapidez en las transacciones y la personalización de la experiencia del cliente. Para fortalecer estos conocimientos, se invita al aprendiz a dar clic en el video sobre fundamentos y modelos de negociación, consultar el anexo en PDF y a escuchar el pódcast sobre la logística detrás del pedido.
 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -212,7 +213,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white Que es #[em e-commerce]: Concepto, antecedentes, Tipos, Características
+                  h4.text-white Que es #[em e-commerce]: concepto, antecedentes, tipos, características
                   p.mb-0.text-white A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con fundamentos del #[em e-commerce] y modelos de negociación: 
 
                 .col-sm-auto.d-flex.gap-2.flex-column
@@ -226,8 +227,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4 Modelos de Negocio en E-Commerce (B2C y B2B)
-                  p.mb-0 Se invita al aprendiz a profundizar en modelos de negocio en #[em e-commerce] 
+                  h4 Modelos de negocio en #[em e-commerce] (B2C y B2B)
+                  p.mb-0 Se invita al aprendiz a profundizar en modelos de negocio en #[em e-commerce]. 
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.centro-virtual.com/recursos/biblioteca/pdf/e-commerce/unidad1_pdf2.pdf  "  target="_blank" no-referrer)
@@ -239,7 +240,7 @@
               figure.pt-3
                 img.imgw-185.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="alt")
             .col-sm-8.col-lg-8
-              p.text-white A continuación, se invita a escuchar el siguiente pódcast:
+              p.text-white A continuación, se invita a ir al siguiente podcast:
               TarjetaAudio.color-acento-contenido.mb-3(
                 texto="“La logística detrás del pedido: carga, preparación y distribución.”"
                 tiempo

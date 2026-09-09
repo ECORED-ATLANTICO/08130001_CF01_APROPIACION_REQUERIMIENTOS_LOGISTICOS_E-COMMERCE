@@ -106,7 +106,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2 Tipos de carga
 
-    p La carga corresponde al conjunto de mercancías transportadas o almacenadas dentro de una operación logística.  De acuerdo con esto, los tipos de carga hacen referencia a la clasificación de las mercancías según sus características físicas, forma de presentación y requerimientos de manipulación durante las operaciones logísticas
+    p La carga corresponde al conjunto de mercancías transportadas o almacenadas dentro de una operación logística.  De acuerdo con esto, los tipos de carga hacen referencia a la clasificación de las mercancías según sus características físicas, forma de presentación y requerimientos de manipulación durante las operaciones logísticas.
 
     p.mb-4 Pueden clasificarse de la siguiente manera:
 
@@ -173,7 +173,7 @@
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.3 Procesos logísticos
+      h2 3.3 Marcado, empacado y rotulado
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-5
@@ -275,8 +275,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
           span Proceso de #[em dropshipping]  
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/23-mob.png", alt="la figura presenta el proceso de Dropshipping mediante una secuencia gráfica de las actividades involucradas desde la compra realizada en una tienda virtual hasta la entrega del producto al cliente. La figura incorpora ilustraciones representativas de los participantes y recursos utilizados durante el proceso, además de un ejemplo práctico que muestra la comercialización de accesorios para celulares, enviados directamente por el proveedor al comprador con la marca de la tienda.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/23.png", alt="la figura presenta el proceso de Dropshipping mediante una secuencia gráfica de las actividades involucradas desde la compra realizada en una tienda virtual hasta la entrega del producto al cliente. La figura incorpora ilustraciones representativas de los participantes y recursos utilizados durante el proceso, además de un ejemplo práctico que muestra la comercialización de accesorios para celulares, enviados directamente por el proveedor al comprador con la marca de la tienda.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/23-mob.png", alt="La figura presenta el proceso de Dropshipping mediante una secuencia gráfica de las actividades involucradas desde la compra realizada en una tienda virtual hasta la entrega del producto al cliente. La figura incorpora ilustraciones representativas de los participantes y recursos utilizados durante el proceso, además de un ejemplo práctico que muestra la comercialización de accesorios para celulares, enviados directamente por el proveedor al comprador con la marca de la tienda.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/23.png", alt="La figura presenta el proceso de Dropshipping mediante una secuencia gráfica de las actividades involucradas desde la compra realizada en una tienda virtual hasta la entrega del producto al cliente. La figura incorpora ilustraciones representativas de los participantes y recursos utilizados durante el proceso, además de un ejemplo práctico que muestra la comercialización de accesorios para celulares, enviados directamente por el proveedor al comprador con la marca de la tienda.")
         figcaption Nota. SENA, (2026).
     
     .row.justify-content-center.mb-4
@@ -301,8 +301,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white ¿Qué es la logística inversa?
-                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con logística inversa y bioseguridad:
+                  h4.text-white Tipos de carga, envase, embalaje, etiquetado - logística interna
+                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con gestión de carga y preparación de pedidos:
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=b3xWXgVw5cI"  target="_blank" no-referrer)
@@ -315,8 +315,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white Libro blanco de logística para comercio electrónico
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en logística inversa y bioseguridad, a través del siguiente libro (página 98-109):
+                  h4.text-white Logística comercio electrónico
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en gestión de cargas y preparación de pedidos, a través del siguiente artículo:
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://ccas.org.co/wp-content/uploads/Logistica-para-Ecommerce-2.pdf" type="application/pdf" target="_blank" no-referrer)
