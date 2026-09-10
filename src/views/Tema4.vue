@@ -310,7 +310,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Indicadores de desempeño logísticos
-                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con planeación y control logístico:
+                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con planeación y control logístico
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=GsErfeaGSIM"  target="_blank" no-referrer)
@@ -324,7 +324,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Indicadores de la gestión logística
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en planeación y control logístico, tal como se muestra en el siguiente libro (páginas 25 - 79).
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en indicadores de la gestión logística KPI. Los indicadores claves del desempeño logístico, tal como se muestra en el siguiente libro (páginas 25 - 79)
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.fesc.edu.co/portal/archivos/e_libros/logistica/ind_logistica.pdf" type="application/pdf" target="_blank" no-referrer)

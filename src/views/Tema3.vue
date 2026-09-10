@@ -301,8 +301,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white Tipos de carga, envase, embalaje, etiquetado - logística interna
-                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con gestión de carga y preparación de pedidos:
+                  h4.text-white Tipos de carga, envase, embalaje, etiquetado y logística interna
+                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con: tipos de carga, envase, embalaje, etiquetado y logística interna.
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=b3xWXgVw5cI"  target="_blank" no-referrer)
@@ -316,7 +316,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Logística comercio electrónico
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en gestión de cargas y preparación de pedidos, a través del siguiente artículo:
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en: logística y comercio electrónico, a través del siguiente artículo:
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://ccas.org.co/wp-content/uploads/Logistica-para-Ecommerce-2.pdf" type="application/pdf" target="_blank" no-referrer)
