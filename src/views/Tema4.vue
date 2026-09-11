@@ -314,8 +314,8 @@
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=GsErfeaGSIM"  target="_blank" no-referrer)
-                    span Abrir video
-                    i.fas.fa-file-video
+                    span Ir al recurso
+
         .tarjeta.bg-primario.p-4.mb-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.d-none.d-lg-block
@@ -328,8 +328,7 @@
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.fesc.edu.co/portal/archivos/e_libros/logistica/ind_logistica.pdf" type="application/pdf" target="_blank" no-referrer)
-                    span Enlace web
-                    i.fas.fa-file-pdf
+                    span Ir al recurso
 
         .bg-audio.rounded-4.mb-4.mb-lg-0.p-3
           .row.align-items-center
@@ -339,7 +338,7 @@
             .col-sm-8.col-lg-8
               p.text-white A continuación, se invita a ir al siguiente pódcast: 
               TarjetaAudio.color-acento-contenido.mb-3(
-                texto="“Control logístico en el e-commerce: eficiencia, trazabilidad y KPI.”"
+                texto="<span style='font-style: normal !important;'>Control logístico en el e-commerce: eficiencia, trazabilidad y KPI</span>"
                 tiempo
                 :audio="require_src('@/assets/curso/audio/podcast-2.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"

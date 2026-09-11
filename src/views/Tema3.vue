@@ -306,8 +306,8 @@
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=b3xWXgVw5cI"  target="_blank" no-referrer)
-                    span Abrir video
-                    i.fas.fa-file-video
+                    span Ir al recurso
+
         .tarjeta.bg-primario.p-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.d-none.d-lg-block
@@ -315,13 +315,12 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white Logística comercio electrónico
+                  h4.text-white Logística y comercio electrónico
                   p.mb-0.text-white Se invita al aprendiz a profundizar en: logística y comercio electrónico, a través del siguiente artículo:
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://ccas.org.co/wp-content/uploads/Logistica-para-Ecommerce-2.pdf" type="application/pdf" target="_blank" no-referrer)
-                    span Enlace web
-                    i.fas.fa-file-pdf
+                    span Ir al recurso
 
 </template>
 

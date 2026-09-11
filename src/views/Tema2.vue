@@ -380,8 +380,8 @@
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=Fxz8Ka7ny3M"  target="_blank" no-referrer)
-                    span Abrir video
-                    i.fas.fa-file-video
+                    span Ir al recurso
+
         .tarjeta.bg-primario.p-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.d-none.d-lg-block
@@ -394,8 +394,7 @@
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.fesc.edu.co/portal/archivos/e_libros/logistica/gestion_logistica.pdf" type="application/pdf" target="_blank" no-referrer)
-                    span Enlace web
-                    i.fas.fa-file-pdf
+                    span Ir al recurso
 
 </template>
 

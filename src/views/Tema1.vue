@@ -17,7 +17,7 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1. Concepto logístico del e-commerce
+      h2 1.1. Concepto logístico del <em>e-commerce</em>
 
     .bloque-texto-g.bloque-texto-g--inverso.color-terciario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -218,8 +218,8 @@
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=BEbIe52iJ70"  target="_blank" no-referrer)
-                    span Enlace
-                    i.fas.fa-file-video
+                    span Ir al recurso
+                    
         .tarjeta.bg-terciario-t5.p-4.mb-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.d-none.d-lg-block
@@ -232,17 +232,17 @@
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.centro-virtual.com/recursos/biblioteca/pdf/e-commerce/unidad1_pdf2.pdf  "  target="_blank" no-referrer)
-                    span Enlace
-                    i.fas.fa-file-video
+                    span Ir al recurso
+                    
         .bg-audio.rounded-4.mb-4.mb-lg-0.px-3
           .row.align-items-center
             .col-sm-4
               figure.pt-3
                 img.imgw-185.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="alt")
             .col-sm-8.col-lg-8
-              p.text-white A continuación, se invita a ir al siguiente podcast:
+              p.text-white A continuación, se invita a ir al siguiente pódcast:
               TarjetaAudio.color-acento-contenido.mb-3(
-                texto="“La logística detrás del pedido: carga, preparación y distribución.”"
+                texto="<span style='font-style: normal !important;'>La logística detrás del pedido: carga, preparación y distribución</span>"
                 tiempo
                 :audio="require_src('@/assets/curso/audio/podcast-1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
