@@ -41,7 +41,6 @@
       span Definiciones de logística nacional e internacional
     .tabla-b.color-acento-contenido.tabla-a--text-left
       table
-        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #B5D0DB")
             th Tipo de logística
@@ -53,23 +52,23 @@
             td(colspan="2") Gestiona el abastecimiento, almacenamiento, transporte y distribución de mercancías dentro del territorio de un mismo país, garantizando el cumplimiento de la normativa nacional y la eficiencia de las operaciones.
             td(colspan="2") 
               ul.mb-0.ps-4(style="list-style-type: disc;")
-                li.mb-2 Cobertura geográfica nacional
-                li.mb-2 Infraestructura vial y centros logísticos
-                li.mb-2 Costos de transporte y distribución
-                li.mb-2 Cumplimiento de la normativa nacional
-                li.mb-2 Tiempos de entrega
-                li Coordinación entre proveedores, operadores y clientes
+                li.mb-2 Cobertura geográfica nacional.
+                li.mb-2 Infraestructura vial y centros logísticos.
+                li.mb-2 Costos de transporte y distribución.
+                li.mb-2 Cumplimiento de la normativa nacional.
+                li.mb-2 Tiempos de entrega.
+                li Coordinación entre proveedores, operadores y clientes.
           tr(style="background-color: #F6F6F6")
             td #[strong Logística internacional]
             td(colspan="2") Administra el flujo de mercancías entre dos o más países mediante procesos de comercio exterior, transporte internacional y coordinación logística, asegurando el cumplimiento de los requisitos legales y comerciales establecidos.
             td(colspan="2")
               ul.mb-0.ps-4(style="list-style-type: disc;")
-                li.mb-2 Trámites aduaneros
-                li.mb-2 Documentación para importación y exportación
-                li.mb-2 Selección del modo de transporte internacional
-                li.mb-2 Acuerdos comerciales e Incoterms
-                li.mb-2 Regulaciones del país de origen y destino
-                li Gestión de riesgos y seguros de la carga
+                li.mb-2 Trámites aduaneros.
+                li.mb-2 Documentación para importación y exportación.
+                li.mb-2 Selección del modo de transporte internacional.
+                li.mb-2 Acuerdos comerciales e Incoterms.
+                li.mb-2 Regulaciones del país de origen y destino.
+                li Gestión de riesgos y seguros de la carga.
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -80,9 +79,9 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/3.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        p La eficiencia de una operación logística depende de la adecuada coordinación de cada etapa del recorrido de las mercancías, desde su punto de origen hasta la entrega al destinatario final. Dentro de este proceso, la primera y la última milla representan fases estratégicas que influyen en los tiempos de entrega, los costos operativos, la trazabilidad y la experiencia del cliente, especialmente en las operaciones de comercio.
+        p La eficiencia de una operación logística depende de la adecuada coordinación de cada etapa del recorrido de las mercancías, desde su punto de origen hasta la entrega al destinatario final. Dentro de este proceso, la primera y la última milla representan fases estratégicas que influyen en los tiempos de entrega, los costos operativos, la trazabilidad y la experiencia del cliente, especialmente en las operaciones de comercio electrónico.
         .bg-primario-p5.p-4.py-3.rounded-4
-          p.mb-0 La primera milla corresponde al traslado inicial de productos desde fabricantes o proveedores hacia centros de distribución o almacenamiento. Esta etapa permite organizar inventarios y garantizar disponibilidad de mercancías. Entre sus aspectos más importantes, tenemos:
+          p.mb-0 La primera milla corresponde al traslado inicial de productos desde fabricantes o proveedores hacia centros de distribución o almacenamiento. Esta etapa permite organizar inventarios y garantizar disponibilidad de mercancías. Entre sus aspectos más importantes se encuentran:
       
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
@@ -192,7 +191,7 @@
           p.mb-0 Los operadores logísticos desempeñan un papel fundamental en la cadena de suministro; dado que se especializan en almacenamiento, transporte, distribución y control de mercancías; contribuyendo al flujo eficiente de mercancías e información. Estas organizaciones apoyan a las empresas de #[em e-commerce] en la gestión de procesos logísticos y cumplimiento de entregas, mediante soluciones adaptadas a las necesidades de cada operación. Existen operadores especializados en transporte urbano, carga nacional, distribución internacional y logística de última milla. La selección del operador depende del tipo de producto, cobertura y requerimientos del servicio.
 
     .bg-secundario-s20.p-4.py-3.rounded-4.mb-3
-      p.mb-0.text-center A continuación, se muestra como es el proceso a nivel general de un operador logístico: 
+      p.mb-0.text-center A continuación, se presenta como es el proceso a nivel general de un operador logístico: 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-8.col-lg-4.d-none.d-xl-block
@@ -310,43 +309,43 @@
 
     .row.justify-content-center.align-items-stretch.mb-5
       .col-lg-4.col-xl-3.mb-3
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
           img.imgw-46.mb-4(src="@/assets/curso/tema2/26.svg", alt="")
           h4.mb-4.text-center Planificación de rutas
           p.mb-0.text-center Diseñar recorridos eficientes reduce los tiempos de desplazamiento, optimiza el uso de los vehículos y favorece el cumplimiento de las entregas programadas.
       .col-lg-4.col-xl-3.mb-3
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-72.mb-4(src="@/assets/curso/tema2/27.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-46.mb-4(src="@/assets/curso/tema2/27.svg", alt="")
           h4.mb-4.text-center Priorización de pedidos
           p.mb-0.text-center Establecer criterios para atender los pedidos según su urgencia, destino o compromiso comercial permite organizar las entregas de manera más eficiente.
       .col-lg-4.col-xl-3.mb-3
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-60.mb-4(src="@/assets/curso/tema2/28.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-46.mb-4(src="@/assets/curso/tema2/28.svg", alt="")
           h4.mb-4.text-center Disponibilidad de inventario
           p.mb-0.text-center Contar con existencias suficientes evita retrasos ocasionados por faltantes y permite iniciar oportunamente el proceso de alistamiento y despacho.
       .col-lg-4.col-xl-3.mb-3
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
           img.imgw-46.mb-4(src="@/assets/curso/tema2/29.svg", alt="")
           h4.mb-4.text-center Capacidad de transporte
           p.mb-0.text-center Disponer de vehículos y recursos adecuados garantiza el traslado oportuno de las mercancías, especialmente durante períodos de alta demanda.
       .col-lg-4.col-xl-3.mb-3.mb-xl-0
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
           img.imgw-46.mb-4(src="@/assets/curso/tema2/30.svg", alt="")
           h4.mb-4.text-center Seguimiento del pedido
           p.mb-0.text-center Monitorear el estado del envío durante el recorrido facilita identificar novedades, informar al cliente y adoptar acciones correctivas cuando sea necesario.
       .col-lg-4.col-xl-3.mb-3.mb-xl-0
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-54.mb-4(src="@/assets/curso/tema2/31.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-46.mb-4(src="@/assets/curso/tema2/31.svg", alt="")
           h4.mb-4.text-center Coordinación operativa
           p.mb-0.text-center Integrar las actividades entre almacenamiento, transporte y distribución reduce tiempos de espera y mejora la continuidad de la operación logística.
       .col-lg-4.col-xl-3.mb-3.mb-xl-0
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-54.mb-4(src="@/assets/curso/tema2/32.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-40.mb-4(src="@/assets/curso/tema2/32.svg", alt="")
           h4.mb-4.text-center Gestión de incidencias
           p.mb-0.text-center Atender oportunamente novedades como retrasos, cambios de dirección o condiciones climáticas minimiza su impacto sobre los tiempos de entrega.
       .col-lg-4.col-xl-3.mb-3.mb-xl-0
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-54.mb-4(src="@/assets/curso/tema2/33.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-46.mb-4(src="@/assets/curso/tema2/33.svg", alt="")
           h4.mb-4.text-center Comunicación con clientes
           p.mb-0.text-center Informar el estado del pedido y las fechas estimadas de entrega fortalece la confianza del cliente y mejora su experiencia durante la compra.
 

@@ -33,10 +33,9 @@
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 3.
-      span Instrumentos de diagnostico
+      span Instrumentos de diagnóstico
     .tabla-b.color-acento-contenido.tabla-a--text-left.mb-4
       table
-        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #B5D0DB")
             th Instrumento
@@ -97,7 +96,7 @@
             p Permite estimar el comportamiento de las ventas para planificar inventarios, recursos y capacidad operativa.  
             p.mb-0 #[strong Ejemplo:] incrementar existencias antes de una campaña de descuentos. 
           div(numero="2" titulo="Gestión de inventarios")
-            p Garantiza la disponibilidad de los productos mediante un control adecuado de las existencias, evitando faltantes o sobre inventarios.  
+            p Garantiza la disponibilidad de los productos mediante un control adecuado de las existencias, evitando faltantes o sobrantes de inventario.  
             p.mb-0 #[strong Ejemplo:] mantener el #[em stock] suficiente para atender pedidos diarios. 
           div(numero="3" titulo="Planificación del almacenamiento")
             p Organiza espacios, equipos y posiciones para facilitar el flujo de mercancías y optimizar la capacidad disponible.  
@@ -177,7 +176,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema4/8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La trazabilidad corresponde a la capacidad de identificar, registrar y consultar el recorrido, la ubicación y el estado de una mercancía durante las diferentes etapas de la cadena de suministro. Su aplicación facilita el seguimiento de los productos desde su origen hasta la entrega al cliente y, cuando corresponde, durante los procesos de devolución. Los elementos mas importantes de la trazabilidad son:
+        p.mb-0 La trazabilidad corresponde a la capacidad de identificar, registrar y consultar el recorrido, la ubicación y el estado de una mercancía durante las diferentes etapas de la cadena de suministro. Su aplicación facilita el seguimiento de los productos desde su origen hasta la entrega al cliente y, cuando corresponde, durante los procesos de devolución. Los elementos más importantes de la trazabilidad son:
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-lg-6.col-xl-4.mb-4
@@ -247,43 +246,43 @@
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-4.col-xl-5
-                img.mb-4(src='@/assets/curso/tema4/16.svg' alt='')
-            h4.text-center.mb-4 Captura de datos
+                img.imgw-80.mb-4(src='@/assets/curso/tema4/16.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Captura de datos
             p.text-center La recopilación oportuna de información garantiza registros completos durante cada operación logística. 
             p.mb-0 Ejemplo: registrar un pedido al momento de su confirmación.
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-4.col-xl-5
-                img.mb-4(src='@/assets/curso/tema4/17.svg' alt='')
-            h4.text-center.mb-4 Calidad de información
+                img.imgw-72.mb-4(src='@/assets/curso/tema4/17.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Calidad de información
             p.text-center La precisión y actualización de los datos reducen errores y fortalecen la confiabilidad de los procesos. 
             p.mb-0 Ejemplo: verificar la dirección del cliente antes del despacho.
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-4.col-xl-5
-                img.mb-4(src='@/assets/curso/tema4/18.svg' alt='')
-            h4.text-center.mb-4 Almacenamiento digital
+                img.imgw-72.mb-4(src='@/assets/curso/tema4/18.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Almacenamiento digital
             p.text-center La organización de la información en plataformas tecnológicas facilita su consulta y conservación. 
             p.mb-0 Ejemplo: almacenar las órdenes de despacho en un sistema ERP.
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-4.col-xl-5
-                img.mb-4(src='@/assets/curso/tema4/19.svg' alt='')
-            h4.text-center.mb-4 Intercambio de información
+                img.imgw-72.mb-4(src='@/assets/curso/tema4/19.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Intercambio de información
             p.text-center La comunicación entre las áreas y los actores logísticos mejora la coordinación de las operaciones. 
             p.mb-0 Ejemplo: compartir el estado del inventario entre la bodega y el área comercial.
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-4.col-xl-5
-                img.mb-4(src='@/assets/curso/tema4/20.svg' alt='')
-            h4.text-center.mb-4 Seguridad de datos
+                img.imgw-66.mb-4(src='@/assets/curso/tema4/20.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Seguridad de datos
             p.text-center La protección de la información evita pérdidas, alteraciones o accesos no autorizados. 
             p.mb-0 Ejemplo: restringir el acceso a la base de datos de clientes mediante perfiles de usuario. 
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-4.col-xl-5
-                img.mb-4(src='@/assets/curso/tema4/21.svg' alt='')
-            h4.text-center.mb-4 Apoyo a decisiones
+                img.imgw-72.mb-4(src='@/assets/curso/tema4/21.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Apoyo a decisiones
             p.text-center La información organizada permite evaluar resultados y definir acciones de mejora. 
             p.mb-0 Ejemplo: analizar los tiempos de entrega para optimizar las rutas de distribución.
 
@@ -310,7 +309,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Indicadores de desempeño logísticos
-                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con planeación y control logístico
+                  p.mb-0.text-white A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con planeación y control logístico.
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=GsErfeaGSIM"  target="_blank" no-referrer)
@@ -324,7 +323,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Indicadores de la gestión logística
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en indicadores de la gestión logística KPI. Los indicadores claves del desempeño logístico, tal como se muestra en el siguiente libro (páginas 25 - 79)
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en indicadores de la gestión logística (KPI). Los indicadores claves del desempeño logístico, tal como se presenta en el siguiente libro (páginas 25-79).
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.fesc.edu.co/portal/archivos/e_libros/logistica/ind_logistica.pdf" type="application/pdf" target="_blank" no-referrer)

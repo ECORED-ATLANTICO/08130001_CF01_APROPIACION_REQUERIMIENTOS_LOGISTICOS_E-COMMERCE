@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-12
         figure
-          img.mb-5(src="@/assets/curso/sintesis.svg", alt="")
+          img.mb-5(src="@/assets/curso/sintesis.svg", alt="La figura presenta la estructura del componente formativo Planeación logística en e-commerce, orientado al desarrollo de competencias para gestionar operaciones logísticas. Abarca fundamentos del comercio electrónico y modelos de negociación, distribución y almacenamiento, gestión de pedidos, planeación y control logístico, logística inversa y bioseguridad, además del uso de herramientas tecnológicas, la gestión documental, el control de procesos, la seguridad de la información y el cumplimiento normativo, integrando conceptos, procedimientos y estrategias para optimizar la cadena logística.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

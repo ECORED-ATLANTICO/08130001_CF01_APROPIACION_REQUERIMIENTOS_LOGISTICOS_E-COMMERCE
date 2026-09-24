@@ -17,7 +17,7 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1. Concepto logístico del <em>e-commerce</em>
+      h2 1.1 Concepto logístico del <em>e-commerce</em>
 
     .bloque-texto-g.bloque-texto-g--inverso.color-terciario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -151,53 +151,53 @@
           p.mb-0 El desarrollo del comercio electrónico requiere el cumplimiento de disposiciones legales que regulan las transacciones digitales, protegen los derechos de las partes involucradas y brindan seguridad a las operaciones comerciales. Conocer este marco normativo facilita la implementación de procesos logísticos confiables, fortalece la relación con clientes y proveedores, y favorece el desarrollo de actividades alineadas con la legislación vigente en los ámbitos nacional e internacional.
 
     p En Colombia, entidades como la Superintendencia de Industria y Comercio y el Ministerio TIC establecen disposiciones sobre manejo de datos, comercio electrónico y servicios digitales.   El incumplimiento normativo puede generar sanciones económicas, pérdida de confianza y afectaciones operativas para las organizaciones. 
-    p.mb-4 Entre la normatividad que rige en Colombia tenemos:
+    p.mb-4 Entre las normas que rigen en Colombia se encuentran:
 
     TabsB.color-acento-botones.mb-4.mb-lg-5
       .py-4.py-md-5(titulo="Ley 527 de 1999 Congreso de la Republica" :icono="require_src('@/assets/curso/tema1/16.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-lg-7.col-xl-6
             p.mb-4.mb-lg-0 Regula y reconoce el uso de mensajes de datos, comercio electrónico y firmas digitales en Colombia. Establece validez jurídica para las transacciones electrónicas. 
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema1/22.png', alt='')
       .py-4.py-md-5(titulo="Ley 1581 de 2012 Congreso de la Republica" :icono="require_src('@/assets/curso/tema1/17.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-lg-7.col-xl-6
             p.mb-4.mb-lg-0 Regula la protección de datos personales y establece lineamientos para el tratamiento, almacenamiento y manejo de información de usuarios y clientes.
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema1/23.png', alt='')
       .py-4.py-md-5(titulo="Ley 1480 de 2011 Estatuto del Consumidor" :icono="require_src('@/assets/curso/tema1/18.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-lg-7.col-xl-6
             p.mb-4.mb-lg-0 Define derechos y deberes en relaciones comerciales, incluyendo ventas realizadas mediante plataformas digitales. 
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema1/24.png', alt='')
       .py-4.py-md-5(titulo="Facturación electrónica DIAN" :icono="require_src('@/assets/curso/tema1/19.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-lg-7.col-xl-6
             p.mb-4.mb-lg-0 Establece lineamientos tributarios y fiscales para la emisión y control de facturas electrónicas en operaciones comerciales digitales. 
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema1/25.png', alt='')
       .py-4.py-md-5(titulo="Normativa de seguridad informática ISO 27000" :icono="require_src('@/assets/curso/tema1/20.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-lg-7.col-xl-6
             p.mb-4.mb-lg-0 Contempla medidas para protección de información, prevención de fraudes electrónicos y seguridad en transacciones digitales.
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema1/26.png', alt='')
       .py-4.py-md-5(titulo="Resolución 202 de 2010 Ministerio TIC" :icono="require_src('@/assets/curso/tema1/21.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-lg-7.col-xl-6
             p.mb-4.mb-lg-0 Establece lineamientos relacionados con tecnologías de la información y comunicaciones aplicadas a entornos digitales y comercio electrónico. 
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema1/27.png', alt='')
 
-    p.mb-4 El <em>e‑commerce</em> es la compra y venta de productos o servicios a través de medios digitales, con antecedentes en la evolución de internet y modelos de negocio como B2B, B2C y C2C. Sus características principales son la accesibilidad global, la rapidez en las transacciones y la personalización de la experiencia del cliente. Para fortalecer estos conocimientos, se invita al aprendiz a dar clic en el video sobre fundamentos y modelos de negociación, consultar el anexo en PDF y a escuchar el pódcast sobre la logística detrás del pedido.
+    p.mb-4 El <em>e‑commerce</em> es la compra y venta de productos o servicios a través de medios digitales, con antecedentes en la evolución de internet y modelos de negocio como B2B, B2C y C2C. Sus características principales son la accesibilidad global, la rapidez en las transacciones y la personalización de la experiencia del cliente. Para fortalecer estos conocimientos, se invita al aprendiz a dar clic en el video sobre fundamentos y modelos de negociación, consultar el anexo en PDF y escuchar el pódcast sobre la logística detrás del pedido.
 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -213,8 +213,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.text-white Que es #[em e-commerce]: concepto, antecedentes, tipos, características
-                  p.mb-0.text-white A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con fundamentos del #[em e-commerce] y modelos de negociación: 
+                  h4.text-white ¿Qué es #[em e-commerce]?: concepto, antecedentes, tipos y características. 
+                  p.mb-0.text-white A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con fundamentos del #[em e-commerce] y modelos de negociación: 
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=BEbIe52iJ70"  target="_blank" no-referrer)
@@ -240,7 +240,7 @@
               figure.pt-3
                 img.imgw-185.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="alt")
             .col-sm-8.col-lg-8
-              p.text-white A continuación, se invita a ir al siguiente pódcast:
+              p.text-white A continuación, se invita a consultar el siguiente pódcast:
               TarjetaAudio.color-acento-contenido.mb-3(
                 texto="<span style='font-style: normal !important;'>La logística detrás del pedido: carga, preparación y distribución</span>"
                 tiempo

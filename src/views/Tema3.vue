@@ -21,7 +21,7 @@
       h2 3.1 Tipos y naturaleza de productos
 
     p Los tipos de productos corresponden a la clasificación de las mercancías según sus características físicas, condiciones de conservación, nivel de riesgo o requerimientos logísticos. Esta clasificación permite definir el tratamiento más apropiado durante cada etapa de la cadena de suministro.
-    p.mb-4 De acuerdo con lo anterior; los tipos de productos en logística se clasifican en:
+    p.mb-4 De acuerdo con lo anterior, los tipos de productos en logística se clasifican en:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-6
@@ -54,47 +54,47 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema3/3.svg", alt="" data-aos="zoom-in-down")
       .col-lg-11
         p La naturaleza de los productos hace referencia al conjunto de propiedades y condiciones que determinan los cuidados, recursos y procedimientos requeridos para su conservación, manipulación y distribución a lo largo de la operación logística. 
-        p.mb-0 Entre las propiedades más comunes tenemos: 
+        p.mb-0 Entre las propiedades más comunes se encuentran:
     
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-lg-4.col-xl-3.mb-3
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
           img.imgw-46.mb-4(src="@/assets/curso/tema3/4.svg", alt="")
           h4.mb-4.text-center Peso
           p.mb-0.text-center Influye en la selección de equipos de manipulación, medios de transporte y capacidad de almacenamiento.
       .col-lg-4.col-xl-3.mb-3
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
           img.imgw-72.mb-4(src="@/assets/curso/tema3/5.svg", alt="")
           h4.mb-4.text-center Dimensiones
           p.mb-0.text-center Determinan el espacio requerido para almacenar, movilizar y transportar las mercancías de forma segura.
       .col-lg-4.col-xl-3.mb-3
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-60.mb-4(src="@/assets/curso/tema3/6.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-72.mb-4(src="@/assets/curso/tema3/6.svg", alt="")
           h4.mb-4.text-center Fragilidad
           p.mb-0.text-center Indica el nivel de protección necesario para evitar daños durante la manipulación y el transporte.
       .col-lg-4.col-xl-3.mb-3
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-46.mb-4(src="@/assets/curso/tema3/7.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-60.mb-4(src="@/assets/curso/tema3/7.svg", alt="")
           h4.mb-4.text-center Condiciones de conservación
           p.mb-0.text-center Establecen los requisitos de temperatura, humedad, ventilación o iluminación para preservar la calidad del producto.
       .col-lg-4.col-xl-3.mb-3.mb-xl-0
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-46.mb-4(src="@/assets/curso/tema3/8.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-40.mb-4(src="@/assets/curso/tema3/8.svg", alt="")
           h4.mb-4.text-center Nivel de riesgo
           p.mb-0.text-center Define las medidas de seguridad necesarias durante el almacenamiento, transporte y distribución.
       .col-lg-4.col-xl-3.mb-3.mb-xl-0
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
           img.imgw-54.mb-4(src="@/assets/curso/tema3/9.svg", alt="")
           h4.mb-4.text-center Vida útil
           p.mb-0.text-center Determina el tiempo disponible para comercializar el producto antes de que pierda sus condiciones de uso o consumo.
       .col-lg-4.col-xl-3.mb-3.mb-xl-0
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-54.mb-4(src="@/assets/curso/tema3/10.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-64.mb-4(src="@/assets/curso/tema3/10.svg", alt="")
           h4.mb-4.text-center Valor comercial
           p.mb-0.text-center Influye en los controles de seguridad, trazabilidad y custodia implementados durante la operación logística.
       .col-lg-4.col-xl-3.mb-3.mb-xl-0
-        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100
-          img.imgw-54.mb-4(src="@/assets/curso/tema3/11.svg", alt="")
+        .tarjeta.bg-primario-p10.p-4.rounded-4.h-100.d-flex.flex-column.justify-content-start
+          img.imgw-64.mb-4(src="@/assets/curso/tema3/11.svg", alt="")
           h4.mb-4.text-center Requerimientos de manipulación
           p.mb-0.text-center Establecen las prácticas, equipos y procedimientos necesarios para garantizar la integridad del producto durante toda la cadena logística.
 
@@ -181,14 +181,13 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema3/26.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
         p El marcado, el empacado y el rotulado constituyen actividades esenciales dentro de la operación logística, ya que favorecen la identificación, protección y manipulación adecuada de las mercancías durante su almacenamiento, transporte y distribución. La correcta aplicación de estos procesos contribuye a disminuir errores operativos, preservar la integridad de los productos, facilitar la trazabilidad y garantizar que cada envío llegue al destino en las condiciones previstas. 
-        p.mb-0 A continuación, se muestra un análisis comparativo sobre los tres procesos: 
+        p.mb-0 A continuación, se presenta un análisis comparativo sobre los tres procesos: 
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 2.
-      span Instrumentos de diagnostico
+      span Análisis comparativo entre marcado, empacado y rotulado
     .tabla-b.color-acento-contenido.tabla-a--text-left.mb-4
       table
-        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #B5D0DB")
             th Proceso 
@@ -226,7 +225,7 @@
     .row.justify-content-center
       .col-xl-10
         .bg-terciario-t5.p-4.py-3.rounded-4.mb-4.mb-lg-5
-          p.mb-0.text-center El cubicaje: corresponde al cálculo del volumen ocupado por la mercancía dentro de procesos de almacenamiento y transporte. Este procedimiento permite optimizar espacios y costos logísticos. 
+          p.mb-0.text-center El cubicaje corresponde al cálculo del volumen ocupado por la mercancía dentro de procesos de almacenamiento y transporte. Este procedimiento permite optimizar espacios y costos logísticos. 
 
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-xl-10
@@ -235,7 +234,6 @@
           span Proceso de cubicaje
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/20-mob.png", alt="La figura presenta un esquema del proceso de cubicaje aplicado a las operaciones logísticas. Integra el cálculo del volumen de una mercancía a partir de sus dimensiones, su análisis frente al espacio disponible para almacenamiento o transporte y un ejemplo práctico que ilustra la aplicación de la fórmula de volumen para optimizar la distribución de la carga. El contenido se acompaña de ilustraciones que representan las etapas del proceso, los elementos utilizados y una situación aplicada al aprovechamiento eficiente del espacio logístico.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/20.png", alt="La figura presenta un esquema del proceso de cubicaje aplicado a las operaciones logísticas. Integra el cálculo del volumen de una mercancía a partir de sus dimensiones, su análisis frente al espacio disponible para almacenamiento o transporte y un ejemplo práctico que ilustra la aplicación de la fórmula de volumen para optimizar la distribución de la carga. El contenido se acompaña de ilustraciones que representan las etapas del proceso, los elementos utilizados y una situación aplicada al aprovechamiento eficiente del espacio logístico.")
-        figcaption Nota. SENA, (2026).
 
     .row.justify-content-center
       .col-xl-10
@@ -249,7 +247,6 @@
           span Proceso de #[em picking]
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/21-mob.png", alt="La figura muestra el proceso de picking como una operación logística orientada a preparar pedidos mediante la localización, selección y verificación de los productos almacenados. Representa de forma secuencial cómo el operario parte de la información registrada en el sistema, identifica las mercancías requeridas y comprueba sus referencias y cantidades antes de trasladarlas al área de empaque, asegurando que el pedido sea preparado correctamente para continuar con el proceso de despacho.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/21.png", alt="La figura muestra el proceso de picking como una operación logística orientada a preparar pedidos mediante la localización, selección y verificación de los productos almacenados. Representa de forma secuencial cómo el operario parte de la información registrada en el sistema, identifica las mercancías requeridas y comprueba sus referencias y cantidades antes de trasladarlas al área de empaque, asegurando que el pedido sea preparado correctamente para continuar con el proceso de despacho.")
-        figcaption Nota. SENA, (2026).
 
     .row.justify-content-center
       .col-xl-10
@@ -263,7 +260,6 @@
           span Proceso de #[em packaging]
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/22-mob.png", alt="La figura presenta un esquema del proceso de Packaging dentro de las operaciones logísticas. Integra las principales actividades relacionadas con la preparación y protección de los productos para su distribución, resaltando el uso de materiales de empaque, el acondicionamiento de la mercancía y la verificación previa al despacho. Además, incorpora un ejemplo aplicado que ilustra el embalaje seguro de un producto frágil mediante materiales de protección, con el fin de preservar su integridad durante el transporte y la entrega al cliente.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/22.png", alt="La figura presenta un esquema del proceso de Packaging dentro de las operaciones logísticas. Integra las principales actividades relacionadas con la preparación y protección de los productos para su distribución, resaltando el uso de materiales de empaque, el acondicionamiento de la mercancía y la verificación previa al despacho. Además, incorpora un ejemplo aplicado que ilustra el embalaje seguro de un producto frágil mediante materiales de protección, con el fin de preservar su integridad durante el transporte y la entrega al cliente.")
-        figcaption Nota. SENA, (2026).
 
     .row.justify-content-center
       .col-xl-10
@@ -277,14 +273,13 @@
           span Proceso de #[em dropshipping]  
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/23-mob.png", alt="La figura presenta el proceso de Dropshipping mediante una secuencia gráfica de las actividades involucradas desde la compra realizada en una tienda virtual hasta la entrega del producto al cliente. La figura incorpora ilustraciones representativas de los participantes y recursos utilizados durante el proceso, además de un ejemplo práctico que muestra la comercialización de accesorios para celulares, enviados directamente por el proveedor al comprador con la marca de la tienda.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/23.png", alt="La figura presenta el proceso de Dropshipping mediante una secuencia gráfica de las actividades involucradas desde la compra realizada en una tienda virtual hasta la entrega del producto al cliente. La figura incorpora ilustraciones representativas de los participantes y recursos utilizados durante el proceso, además de un ejemplo práctico que muestra la comercialización de accesorios para celulares, enviados directamente por el proveedor al comprador con la marca de la tienda.")
-        figcaption Nota. SENA, (2026).
     
     .row.justify-content-center.mb-4
       .col-lg-10.col-xl-8
         .bg-azul.p-4.py-3.rounded-4.mb-3
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p.mb-4.mb-lg-0 #[strong Ejemplo:] empresas como Amazon, Shopify, cuentan con el modelo de #[em dropshopping] que permite a los vendedores comercializar productos sin que estos sean almacenamos físicamente.
+              p.mb-4.mb-lg-0 #[strong Ejemplo:] empresas como Amazon y Shopify, cuentan con el modelo de #[em dropshopping] que permite a los vendedores comercializar productos sin que estos sean almacenados físicamente.
             .col-lg-4
               figure
                 img.imgw-105(data-aos="fade-down-right", src="@/assets/curso/tema3/24.png", alt="")
@@ -302,7 +297,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Tipos de carga, envase, embalaje, etiquetado y logística interna
-                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con: tipos de carga, envase, embalaje, etiquetado y logística interna.
+                  p.mb-0.text-white A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con: tipos de carga, envase, embalaje, etiquetado y logística interna.
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=b3xWXgVw5cI"  target="_blank" no-referrer)

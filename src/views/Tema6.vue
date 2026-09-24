@@ -43,7 +43,7 @@
             p.mb-0 Planifica rutas, controla vehículos, monitorea entregas y optimiza los costos asociados al transporte de mercancías.
           div(numero="3" titulo="Sistema de planificación de recursos empresariales (ERP)")
             p.mb-0 Integra la información de compras, inventarios, ventas, finanzas y logística en una única plataforma para facilitar la gestión organizacional.
-          div(numero="4" titulo="Tecnologías de identificación (Código de barras y QR)")
+          div(numero="4" titulo="Tecnologías de identificación (Código de barras y códigos QR)")
             p.mb-0 Facilitan la identificación, captura y consulta rápida de información sobre productos durante las operaciones logísticas. 
           div(numero="5" titulo="GPS y sistemas de rastreo")
             p.mb-0 Permiten conocer la ubicación de vehículos y mercancías en tiempo real, fortaleciendo la trazabilidad y el control del transporte. 
@@ -68,7 +68,6 @@
       span Aspectos fundamentales de la gestión documental y el control de procesos
     .tabla-b.color-acento-contenido.tabla-a--text-left.mb-4
       table
-        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #B5D0DB")
             th Aspecto
@@ -116,7 +115,7 @@
       .col-lg-8
         p La seguridad de la información corresponde al conjunto de medidas utilizadas para proteger datos comerciales, financieros y logísticos frente a pérdidas, accesos no autorizados o ataques informáticos. Las empresas de #[em e-commerce] manejan información relacionada con clientes, pagos y operaciones logísticas, por lo que deben implementar controles de acceso, copias de seguridad y mecanismos de protección digital.
         .bg-secundario-s5.p-4.py-3.rounded-4
-          p.mb-0 El fortalecimiento de la seguridad informática permite reducir riesgos y garantizar confiabilidad en las operaciones comerciales. Empresas como Servientrega, Amazon, Shopify, implementan políticas de seguridad de la información para la protección de los datos de sus clientes.    
+          p.mb-0 El fortalecimiento de la seguridad informática permite reducir riesgos y garantizar confiabilidad en las operaciones comerciales. Empresas como Servientrega, Amazon y Shopify implementan políticas de seguridad de la información para la protección de los datos de sus clientes.    
 
     separador 
 
@@ -135,12 +134,12 @@
         .tarjeta.bg-terciario-t5.p-4.rounded-4.h-100
           img.imgw-46.mb-4(src="@/assets/curso/tema6/7.svg", alt="")
           h4.mb-4.text-center Normatividad legal
-          p.mb-0 Cumplir leyes y normas aplicables para operar de forma legal, segura y responsable.
+          p.mb-0 Cumplir las leyes y normas aplicables para operar de forma legal, segura y responsable.
       .col-sm-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.bg-terciario-t5.p-4.rounded-4.h-100
           img.imgw-46.mb-4(src="@/assets/curso/tema6/8.svg", alt="")
           h4.mb-4.text-center Gestión documental
-          p Organizar, registrar y conservar documentos claves para garantizar trazabilidad y respaldo de las operaciones.
+          p Organizar, registrar y conservar documentos clave para garantizar trazabilidad y respaldo de las operaciones.
           ul.lista-ul.mb-0
             li.mb-0
               i.lista-ul__vineta
@@ -181,7 +180,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Tecnologías para operaciones logísticas #[em e-commerce]
-                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con soporte tecnológico y cumplimiento normativo:
+                  p.mb-0.text-white A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con soporte tecnológico y cumplimiento normativo:
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=_CoLhDHy7AU"  target="_blank" no-referrer)
@@ -195,7 +194,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Gerencia de la cadena de abastecimientos
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en soporte tecnológico y cumplimiento normativo, a través del siguiente libro (páginas 497 - 525):
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en soporte tecnológico y cumplimiento normativo, a través del siguiente libro (páginas 497-525):
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.fesc.edu.co/portal/archivos/e_libros/logistica/gestion_logistica.pdf" type="application/pdf" target="_blank" no-referrer)

@@ -57,7 +57,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La logística en <em>e-commerce</em> permite gestionar almacenamiento, distribución y entrega de productos para satisfacer al cliente.',
+            'La logística en <em>e-commerce</em> permite gestionar almacenamiento, distribución y entrega de productos para satisfacer al cliente.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -90,7 +90,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El modelo B2B corresponde a transacciones comerciales realizadas entre empresas.',
+            'El modelo B2B corresponde a transacciones comerciales realizadas entre empresas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -123,7 +123,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La Ley 527 de 1999 reconoce la validez jurídica de los mensajes de datos y las transacciones electrónicas.',
+            'La Ley 527 de 1999 reconoce la validez jurídica de los mensajes de datos y las transacciones electrónicas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -156,7 +156,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La última milla corresponde a la etapa final de entrega del producto al cliente.',
+            'La última milla corresponde a la etapa final de entrega del producto al cliente.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -188,7 +188,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los operadores logísticos apoyan procesos de almacenamiento, transporte y distribución de mercancías.',
+            'Los operadores logísticos apoyan procesos de almacenamiento, transporte y distribución de mercancías.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -221,7 +221,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los productos perecederos requieren condiciones especiales para conservar su calidad y seguridad.',
+            'Los productos perecederos requieren condiciones especiales para conservar su calidad y seguridad.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -254,7 +254,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El marcado facilita la identificación y control de las mercancías durante la operación logística.',
+            'El marcado facilita la identificación y control de las mercancías durante la operación logística.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -287,7 +287,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El picking corresponde a la selección y recolección de productos para preparar pedidos.',
+            'El picking corresponde a la selección y recolección de productos para preparar pedidos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -319,7 +319,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los KPI permiten evaluar el desempeño y apoyar la toma de decisiones en las operaciones logísticas.',
+            'Los KPI permiten evaluar el desempeño y apoyar la toma de decisiones en las operaciones logísticas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -351,7 +351,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La trazabilidad permite conocer la ubicación y estado de los productos durante la operación logística.',
+            'La trazabilidad permite conocer la ubicación y estado de los productos durante la operación logística.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -384,7 +384,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La logística inversa gestiona devoluciones, cambios y recuperación de productos dentro de la cadena logística.',
+            'La logística inversa gestiona devoluciones, cambios y recuperación de productos dentro de la cadena logística.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -417,7 +417,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los protocolos de bioseguridad ayudan a proteger trabajadores, mercancías y procesos logísticos.',
+            'Los protocolos de bioseguridad ayudan a proteger trabajadores, mercancías y procesos logísticos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -450,7 +450,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los sistemas ERP permiten integrar y administrar información relacionada con inventarios, pedidos y operaciones logísticas.',
+            'Los sistemas ERP permiten integrar y administrar información relacionada con inventarios, pedidos y operaciones logísticas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -483,7 +483,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La guía de transporte facilita el control y seguimiento de las mercancías durante su movilización.',
+            'La guía de transporte facilita el control y seguimiento de las mercancías durante su movilización.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -515,7 +515,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La planeación logística permite organizar recursos y actividades para mejorar la eficiencia operativa.',
+            'La planeación logística permite organizar recursos y actividades para mejorar la eficiencia operativa.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -548,7 +548,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El dropshipping permite vender productos sin mantener inventarios propios, ya que el proveedor realiza el despacho.',
+            'El dropshipping permite vender productos sin mantener inventarios propios, ya que el proveedor realiza el despacho.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -581,7 +581,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El cubicaje permite calcular el volumen de la mercancía para optimizar espacios de almacenamiento y transporte.',
+            'El cubicaje permite calcular el volumen de la mercancía para optimizar espacios de almacenamiento y transporte.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -614,7 +614,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La Superintendencia de Industria y Comercio protege los derechos de los consumidores y supervisa prácticas comerciales.',
+            'La Superintendencia de Industria y Comercio protege los derechos de los consumidores y supervisa prácticas comerciales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -646,7 +646,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La logística internacional involucra operaciones de importación, exportación y cumplimiento de requisitos aduaneros.',
+            'La logística internacional involucra operaciones de importación, exportación y cumplimiento de requisitos aduaneros.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -680,7 +680,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El cumplimiento normativo fortalece la legalidad, reduce riesgos y genera confianza en las operaciones de comercio electrónico.',
+            'El cumplimiento normativo fortalece la legalidad, reduce riesgos y genera confianza en las operaciones de comercio electrónico.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

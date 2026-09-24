@@ -70,7 +70,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema5/5.svg", alt="" data-aos="zoom-in-down")
       .col-lg-11
-        p.mb-0 Las técnicas de logística inversa incluyen los métodos utilizados para gestionar el retorno y aprovechamiento de los productos. Estas actividades permiten determinar si la mercancía puede reintegrarse al inventario o requiere eliminación. Las técnicas son las siguientes:
+        p.mb-0 Las técnicas de logística inversa incluyen los métodos utilizados para gestionar el retorno y aprovechamiento de los productos. Estas actividades permiten determinar si la mercancía puede reintegrarse al inventario o requiere ser eliminada. Las técnicas son las siguientes:
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
@@ -79,7 +79,6 @@
           span Técnicas de logística inversa
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/6-mob.png", alt="La figura muestra las técnicas de la logística inversa mediante cuatro etapas conectadas: clasificación de devoluciones, inspección de mercancías, reacondicionamiento y disposición final del producto. Además, representa un flujo continuo de las devoluciones, desde la evaluación de su estado y definición del tratamiento correspondiente hasta su recuperación, reutilización, reciclaje o disposición segura, de acuerdo con las condiciones del producto y la normativa vigente.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/6.png", alt="La figura muestra las técnicas de la logística inversa mediante cuatro etapas conectadas: clasificación de devoluciones, inspección de mercancías, reacondicionamiento y disposición final del producto. Además, representa un flujo continuo de las devoluciones, desde la evaluación de su estado y definición del tratamiento correspondiente hasta su recuperación, reutilización, reciclaje o disposición segura, de acuerdo con las condiciones del producto y la normativa vigente.")
-        figcaption Nota. SENA, (2026).
 
     .bg-terciario-t5.p-4.py-3.rounded-4.mb-4.mb-lg-5
       p.mb-0.text-center Los procedimientos representan la secuencia de actividades necesarias para ejecutar ese proceso de forma organizada. Por otro lado, deben definir tiempos de respuesta, responsables, registros y mecanismos de seguimiento para garantizar eficiencia en el proceso. El procedimiento de atención de una devolución es el siguiente:
@@ -93,38 +92,38 @@
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-5
-                img.mb-4(src='@/assets/curso/tema5/8.svg' alt='')
-            h4.text-center.mb-4 Recepción de la devolución
+                img.mb-4.imgw-82(src='@/assets/curso/tema5/8.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Recepción de la devolución
             p.text-center.mb-0 Recibir el producto devuelto y registrar la información básica (número de pedido, cliente y motivo de la devolución).
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-5
-                img.mb-4(src='@/assets/curso/tema5/9.svg' alt='')
-            h4.text-center.mb-4 Verificación de la información
+                img.mb-4.imgw-80(src='@/assets/curso/tema5/9.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Verificación de la información
             p.text-center.mb-0 Validar documentos, motivo de la devolución y condiciones establecidas por la empresa para continuar el proceso.
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-5
-                img.mb-4(src='@/assets/curso/tema5/10.svg' alt='')
-            h4.text-center.mb-4 Inspección del producto
+                img.mb-4.imgw-80(src='@/assets/curso/tema5/10.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Inspección del producto
             p.text-center.mb-0 Revisar el estado físico, funcional y estético del producto para identificar daños, accesorios completos o fallas.
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-5
-                img.mb-4(src='@/assets/curso/tema5/11.svg' alt='')
-            h4.text-center.mb-4 Clasificación del retorno
+                img.mb-4.imgw-72(src='@/assets/curso/tema5/11.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Clasificación del retorno
             p.text-center.mb-0 Asignar el producto al destino correspondiente según el resultado de la inspección y las políticas de la empresa.
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-5
-                img.mb-4(src='@/assets/curso/tema5/12.svg' alt='')
-            h4.text-center.mb-4 Procesamiento del producto
+                img.mb-4.imgw-80(src='@/assets/curso/tema5/12.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Procesamiento del producto
             p.text-center.mb-0 Ejecutar la acción definida: reparar, reacondicionar, cambiar, reutilizar, reciclar o preparar para disposición final.
           .tarjeta.tarjeta--blanca.p-4.py-5.shadow.m-3.mx-2
             .row.justify-content-center.mb-3
               .col-5
-                img.mb-4(src='@/assets/curso/tema5/13.svg' alt='')
-            h4.text-center.mb-4 Registro y cierre del proceso
+                img.mb-4.imgw-72(src='@/assets/curso/tema5/13.svg' alt='')
+            h4.text-center.mb-4.titulo-tarjeta Registro y cierre del proceso
             p.text-center.mb-0 Registrar la gestión realizada, actualizar el sistema y cerrar la devolución para garantizar la trazabilidad y el control.
 
     separador
@@ -142,7 +141,6 @@
       span Las normativas y políticas aplicables a la logística inversa 
     .tabla-b.color-acento-contenido.tabla-a--text-left
       table
-        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #B5D0DB")
             th Política
@@ -234,7 +232,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white ¿Qué es la logística inversa?
-                  p.mb-0.text-white A continuación, se invita al siguiente video para fortalecer los conocimientos relacionados con logística inversa y bioseguridad:
+                  p.mb-0.text-white A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con logística inversa y bioseguridad:
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=n7Oaourq7cM"  target="_blank" no-referrer)
@@ -248,7 +246,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white Libro blanco de logística para comercio electrónico
-                  p.mb-0.text-white Se invita al aprendiz a profundizar en logística inversa y bioseguridad, a través del siguiente libro (páginas 98 - 109):
+                  p.mb-0.text-white Se invita al aprendiz a profundizar en logística inversa y bioseguridad, a través del siguiente libro (páginas 98-109):
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://ecommerce.institute/wp-content/uploads/lb-logistica-2016.pdf" type="application/pdf" target="_blank" no-referrer)
