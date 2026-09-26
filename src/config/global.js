@@ -366,13 +366,57 @@ export default {
   referencias: [
     {
       referencia:
+        'Andrés Fernando. (2020). Tipos de carga, envase, embalaje, etiquetado - logística interna [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=b3xWXgVw5cI',
+    },
+    {
+      referencia:
+        'Asociación Española de la Economía Digital. (s. f.). Libro blanco de logística para comercio <em>e-commerce</em>.',
+      link: 'https://ecommerce.institute/wp-content/uploads/lb-logistica-2016.pdf',
+    },
+    {
+      referencia: 'Banco de la República. (2021). Pasarelas de pago.',
+      link: 'https://www.banrep.gov.co/es/node/40991',
+    },
+    {
+      referencia:
+        'Betancur, C. (2021). Comparación de pasarelas de pago en Colombia. BTODigital.',
+      link: 'https://btodigital.com/comparacion-de-pasarelas-de-pago-en-colombia/',
+    },
+    {
+      referencia:
         'Chopra, S., & Meindl, P. (2008). Administración de la cadena de suministro: estrategia, planeación y operación (3.ª ed.). Pearson Educación.',
       link: '',
     },
     {
       referencia:
+        'Discitur Capacitaciones. (2022). Indicadores de desempeño logísticos [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=GsErfeaGSIM',
+    },
+    {
+      referencia:
         'García Olivares, A. A. (2004). Recomendaciones táctico-operativas para implementar un programa de logística inversa. eumed.net.',
       link: '',
+    },
+    {
+      referencia:
+        'Gómez, E. (s. f.). Logística comercio electrónico. Cámara de Comercio Aburrá Sur.',
+      link: 'https://ccas.org.co/wp-content/uploads/Logistica-para-Ecommerce-2.pdf',
+    },
+    {
+      referencia:
+        'Hermo Benito. (2023). Cómo funciona una tienda online. Logística para <em>e-Commerce</em> [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=Fxz8Ka7ny3M',
+    },
+    {
+      referencia:
+        'Herradón, A. (2009). <em>Marketing</em> electrónico para pymes. Alfaomega.',
+      link: '',
+    },
+    {
+      referencia:
+        'Lepatru007. (2020). Qué es <em>E-Commerce</em>: Concepto, antecedentes, tipos, características [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=BEbIe52iJ70',
     },
     {
       referencia:
@@ -391,18 +435,13 @@ export default {
     },
     {
       referencia:
-        'Banco de la República. (2021). Pasarelas de pago. Recuperado de:',
-      link: 'https://www.banrep.gov.co/es/node/40991',
+        'Montilla, H. (2024). Modelos de Negocio en <em>E-Commerce</em> (B2C y B2B) Aplicaciones a Nuevos Modelos de Negocio. Corporación Universitaria de Asturias.',
+      link: 'https://www.centro-virtual.com/recursos/biblioteca/pdf/e-commerce/unidad1_pdf2.pdf',
     },
     {
       referencia:
-        'Betancur, C. (2021). Comparación de pasarelas de pago en Colombia. BTODigital. Recuperado de:',
-      link: 'https://btodigital.com/comparacion-de-pasarelas-de-pago-encolombia/',
-    },
-    {
-      referencia:
-        'Herradón, A. (2009). <em>Marketing</em> electrónico para pymes. Alfaomega.',
-      link: '',
+        'Mora G., L. A. (2008). Gestión logística integral: Las mejores prácticas en la cadena de abastecimiento. ECOE Ediciones.',
+      link: 'https://www.fesc.edu.co/portal/archivos/e_libros/logistica/gestion_logistica.pdf',
     },
     {
       referencia:
@@ -410,8 +449,18 @@ export default {
       link: '',
     },
     {
-      referencia: 'Ortega, L. (2015). <em>E-commerce y pago seguro.</em>',
+      referencia: 'Ortega, L. (2015). <em>E-commerce</em> y pago seguro.',
       link: '',
+    },
+    {
+      referencia:
+        'Pakke. (2020). <em>Webinar</em>: ¿Qué es la logística inversa? [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=n7Oaourq7cM',
+    },
+    {
+      referencia:
+        'Quintino Material Handling Solutions. (2022). <em>E-Logistics</em> recargado: Módulo 1: Tecnologías para operaciones logísticas <em>e-commerce</em> [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=_CoLhDHy7AU',
     },
   ],
   creditos: [

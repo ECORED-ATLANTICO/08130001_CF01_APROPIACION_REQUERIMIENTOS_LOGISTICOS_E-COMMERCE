@@ -375,7 +375,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.text-white ¿Cómo funciona una tienda <em>online</em>?
-                  p.mb-0.text-white A continuación, consulte el siguiente video para fortalecer los conocimientos relacionados con logística de distribución y almacenamiento: 
+                  p.mb-0.text-white A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con logística de distribución y almacenamiento: 
 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.d-block(href="https://www.youtube.com/watch?v=Fxz8Ka7ny3M"  target="_blank" no-referrer)

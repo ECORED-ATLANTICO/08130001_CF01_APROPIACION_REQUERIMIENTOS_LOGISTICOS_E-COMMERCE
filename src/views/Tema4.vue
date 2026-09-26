@@ -335,7 +335,7 @@
               figure.pt-3
                 img.imgw-185.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="alt")
             .col-sm-8.col-lg-8
-              p.text-white A continuación, se invita a ir al siguiente pódcast: 
+              p.text-white A continuación, se invita a consultar el siguiente pódcast: 
               TarjetaAudio.color-acento-contenido.mb-3(
                 texto="<span style='font-style: normal !important;'>Control logístico en el <em>e-commerce</em>: eficiencia, trazabilidad y KPI</span>"
                 tiempo
