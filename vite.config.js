@@ -44,6 +44,23 @@ module.exports = defineConfig(({ mode }) => {
         },
       },
       {
+        name: 'fix-require-src-resolved-urls',
+        enforce: 'pre',
+        transform(code, id) {
+          if (!id.includes('requireSrc')) return null
+          if (!code.includes('https?:|data:')) return null
+          let out = code.replace(
+            '/^(https?:|data:)/i',
+            '/^(https?:|data:|file:|blob:)/i',
+          )
+          out = out.replace(
+            "if (s.startsWith('/')) return s",
+            "if (s.startsWith('/') || s.startsWith('./') || s.startsWith('../')) return s",
+          )
+          return out === code ? null : out
+        },
+      },
+      {
         name: 'html-title',
         transformIndexHtml(html) {
           return html.replace(/<title>.*?<\/title>/, `<title>${titulo}</title>`)
